@@ -1,0 +1,237 @@
+The following have been reloaded with a version change:
+  1) stack/2021.1 => stack/2022.2
+
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 2439168
+Academic license 2439168 - for non-commercial use only - registered to sa___@uiowa.edu
+iter = 0
+iter = 1
+iter = 2
+iter = 3
+iter = 4
+iter = 5
+iter = 6
+iter = 7
+iter = 8
+iter = 9
+iter = 10
+iter = 11
+iter = 12
+iter = 13
+iter = 14
+iter = 15
+iter = 16
+iter = 17
+iter = 18
+iter = 19
+iter = 20
+iter = 21
+iter = 22
+iter = 23
+iter = 24
+iter = 25
+iter = 26
+iter = 27
+iter = 28
+iter = 29
+iter = 30
+iter = 31
+iter = 32
+iter = 33
+iter = 34
+iter = 35
+iter = 36
+iter = 37
+iter = 38
+iter = 39
+iter = 40
+iter = 41
+iter = 42
+iter = 43
+iter = 44
+iter = 45
+iter = 46
+iter = 47
+iter = 48
+iter = 49
+iter = 50
+iter = 51
+iter = 52
+iter = 53
+iter = 54
+iter = 55
+iter = 56
+iter = 57
+iter = 58
+iter = 59
+iter = 60
+iter = 61
+iter = 62
+iter = 63
+iter = 64
+iter = 65
+iter = 66
+iter = 67
+iter = 68
+iter = 69
+iter = 70
+iter = 71
+iter = 72
+iter = 73
+iter = 74
+iter = 75
+iter = 76
+iter = 77
+iter = 78
+iter = 79
+iter = 80
+iter = 81
+iter = 82
+iter = 83
+iter = 84
+iter = 85
+iter = 86
+iter = 87
+iter = 88
+iter = 89
+iter = 90
+iter = 91
+iter = 92
+iter = 93
+iter = 94
+iter = 95
+iter = 96
+iter = 97
+iter = 98
+iter = 99
+Results for n1 = 10
+\begin{tabular}{rrrr}
+\toprule
+       0 &        1 &        2 &        3 \\
+\midrule
+1.000000 & 1.000000 & 1.000000 & 1.000000 \\
+0.191521 & 0.135313 & 0.514009 & 0.191521 \\
+0.050723 & 1.219593 & 0.714287 & 0.000000 \\
+0.073877 & 0.766101 & 0.639375 & 0.000000 \\
+0.102352 & 0.398441 & 0.546789 & 0.061661 \\
+\bottomrule
+\end{tabular}
+
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 2439168
+Academic license 2439168 - for non-commercial use only - registered to sa___@uiowa.edu
+iter = 0
+iter = 1
+iter = 2
+iter = 3
+iter = 4
+iter = 5
+iter = 6
+iter = 7
+iter = 8
+iter = 9
+iter = 10
+iter = 11
+iter = 12
+iter = 13
+iter = 14
+iter = 15
+iter = 16
+iter = 17
+iter = 18
+iter = 19
+iter = 20
+iter = 21
+iter = 22
+iter = 23
+iter = 24
+iter = 25
+iter = 26
+iter = 27
+iter = 28
+iter = 29
+iter = 30
+iter = 31
+iter = 32
+iter = 33
+iter = 34
+iter = 35
+iter = 36
+iter = 37
+iter = 38
+iter = 39
+iter = 40
+iter = 41
+iter = 42
+iter = 43
+iter = 44
+iter = 45
+iter = 46
+iter = 47
+iter = 48
+iter = 49
+iter = 50
+iter = 51
+iter = 52
+iter = 53
+iter = 54
+iter = 55
+iter = 56
+iter = 57
+iter = 58
+iter = 59
+iter = 60
+iter = 61
+iter = 62
+iter = 63
+iter = 64
+iter = 65
+iter = 66
+iter = 67
+iter = 68
+iter = 69
+iter = 70
+iter = 71
+iter = 72
+iter = 73
+iter = 74
+iter = 75
+iter = 76
+iter = 77
+iter = 78
+iter = 79
+iter = 80
+iter = 81
+iter = 82
+iter = 83
+iter = 84
+iter = 85
+iter = 86
+iter = 87
+iter = 88
+iter = 89
+iter = 90
+iter = 91
+iter = 92
+iter = 93
+iter = 94
+iter = 95
+iter = 96
+iter = 97
+iter = 98
+iter = 99
+Results for n1 = 5
+\begin{tabular}{rrrr}
+\toprule
+       0 &        1 &        2 &        3 \\
+\midrule
+1.000000 & 1.000000 & 1.000000 & 1.000000 \\
+0.897929 & 1.000000 & 0.938698 & 0.897929 \\
+0.175101 & 1.995991 & 1.000638 & 0.000000 \\
+0.206860 & 0.863530 & 0.860680 & 0.000000 \\
+0.300952 & 0.382543 & 0.712615 & 0.242263 \\
+\bottomrule
+\end{tabular}
+
