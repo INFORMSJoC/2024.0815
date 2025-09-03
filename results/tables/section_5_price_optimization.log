@@ -1,0 +1,47 @@
+This file was manually saved. --Sam (2025-02-02)
+
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 2439168
+Academic license 2439168 - for non-commercial use only - registered to sa___@uiowa.edu
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 2439168
+Academic license 2439168 - for non-commercial use only - registered to sa___@uiowa.edu
+Set parameter NonConvex to value 2
+
+True opt p, d, val:
+
+[ 9.5        10.30763612]
+[  23862.96525712 1776137.03474288]
+18534472.427279837
+
+Total demand excess:
+
+0.0
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 2439168
+Academic license 2439168 - for non-commercial use only - registered to sa___@uiowa.edu
+Set parameter NonConvex to value 2
+Set parameter NonConvex to value 2
+0.0%
+Set parameter NonConvex to value 2
+Set parameter NonConvex to value 2
+Set parameter NonConvex to value 2
+
+function value error
+
+[1.         0.98645868 0.15586736 0.99960544 1.         0.66933594]
+
+optimal solution error
+
+[ 1.          1.06533209 16.91676475  1.00059205  1.          4.97339429]
+
+optimal value error
+
+[ 1.          1.06304684 10.81421159  1.00065047  1.          3.81483458]
+
+feasibility error
+
+[1.         0.99158367 0.10760371 0.99977696 1.         0.66218847]
